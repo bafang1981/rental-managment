@@ -1,4 +1,4 @@
-import React, { useMemo, useState, useEffect } from "react";
+
 
 const months = [
   "January",
@@ -832,7 +832,8 @@ function TenantFormPage({ setTenants }) {
     setForm({
       name: "",
       unit: "",
-      phone: "",
+:%d
+	    phone: "",
       email: "",
       leaseStart: "",
       leaseEnd: "",
@@ -1047,3 +1048,4 @@ const bigNumber = {
   fontWeight: "700",
   margin: 0,
 };
+

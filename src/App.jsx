@@ -80,7 +80,7 @@ const DEFAULT_TENANTS = [
     email: "",
     leaseStart: "2026-01-01",
     leaseEnd: "2026-12-31",
-    monthlyRent: 800,
+    monthlyRent: 300,
     securityDeposit: 0,
     emergencyContact: "",
     notes: "Pays by Zelle",
@@ -90,7 +90,7 @@ const DEFAULT_TENANTS = [
   {
     id: generateId(),
     name: "Nounamo",
-    unit: "Unit B",
+    unit: "B",
     phone: "",
     email: "",
     leaseStart: "2024-10-01",
@@ -105,7 +105,7 @@ const DEFAULT_TENANTS = [
   {
     id: generateId(),
     name: "Admin",
-    unit: "Unit D",
+    unit: "D",
     phone: "2012046084",
     email: "",
     leaseStart: "2023-02-01",
@@ -120,7 +120,7 @@ const DEFAULT_TENANTS = [
   {
     id: generateId(),
     name: "Mitch",
-    unit: "Unit C",
+    unit: "C",
     phone: "24106403240",
     email: "",
     leaseStart: "2023-07-15",
@@ -135,7 +135,7 @@ const DEFAULT_TENANTS = [
   {
     id: generateId(),
     name: "Ahmed Hussain",
-    unit: "Unit E",
+    unit: "E",
     phone: "2819030205",
     email: "",
     leaseStart: "2026-02-01",

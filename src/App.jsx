@@ -150,7 +150,7 @@ const DEFAULT_TENANTS = [
   {
     id: generateId(),
     name: "Ingrid simo",
-    unit: "Unit AB",
+    unit: "AB",
     phone: "3469782086",
     email: "",
     leaseStart: "2026-02-01",

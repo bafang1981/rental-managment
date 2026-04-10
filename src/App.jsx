@@ -75,7 +75,7 @@ const DEFAULT_TENANTS = [
   {
     id: generateId(),
     name: "AirBnb",
-    unit: "Unit A Master",
+    unit: "Master",
     phone: "",
     email: "",
     leaseStart: "2026-01-01",
